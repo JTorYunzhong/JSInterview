@@ -1,1 +1,9 @@
- 1.write a TO-DO list, adding an additional feature  “select all” 
+1.write a TO-DO list, adding an additional feature  “select all” 
+
+use array to store to do list, eg [{content:something, checked:false} ]
+
+              <input
+                type="checkbox"
+                checked={values.uppercase}
+                onChange={(e) => setValues(e.target.checked)}
+              />
