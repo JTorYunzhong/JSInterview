@@ -1,13 +1,17 @@
-# frontendInterview
+# JS Interview
 
-React Developer Interview. Five components
+[1. Which events do not trigger bubbling]
+  Some of these non-bubbling events include:
 
-JavaScript
+Focus-related events:
 
-CSS
+focus, blur, focusin, focusout
+Mouse-related events:
 
-React
+mouseenter, mouseleave
+Wheel events:
 
-Coding(mini application, algorithm)
+wheel
+Input events:
 
-Others(HTML,SQL)
+input, change
