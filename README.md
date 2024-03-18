@@ -1,4 +1,4 @@
-# JS Interview
+# JS Interview Q&A
 
 ## 1. Which events do not trigger bubbling 
 
