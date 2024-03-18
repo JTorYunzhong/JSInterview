@@ -13,5 +13,4 @@ mouseenter, mouseleave
 Wheel events:
 wheel
 Input events:
-
 input, change
